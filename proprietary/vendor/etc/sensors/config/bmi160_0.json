@@ -1,7 +1,7 @@
 {
   "config":
   {
-    "hw_platform": ["QRD", "MTP", "Dragon", "Surf", "IDP"],
+    "hw_platform": ["QRD", "MTP", "Dragon", "Surf"],
     "soc_id": ["347","300","301","394"]
   },
   "bmi160_0":{
