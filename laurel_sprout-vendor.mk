@@ -287,6 +287,32 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/IDP_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/IDP_Headset_cal.acdb \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/IDP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/IDP_Speaker_cal.acdb \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/IDP_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/IDP_workspaceFile.qwsp \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Bluetooth_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_General_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Global_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Handset_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Hdmi_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Headset_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_Speaker_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tasha-snd-card/IDP_WCD9335_workspaceFile.qwsp \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Bluetooth_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Codec_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_General_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Global_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Handset_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Hdmi_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Headset_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_Speaker_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/IDP/trinket-tavil-snd-card/IDP_WCD9340_workspaceFile.qwsp \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_Bluetooth_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_Codec_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_General_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_Global_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_Handset_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_Hdmi_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_Headset_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_Speaker_cal.acdb \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD_India/QRD_India_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_India/QRD_India_workspaceFile.qwsp \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD/QRD_Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/QRD_Codec_cal.acdb \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/etc/acdbdata/QRD/QRD_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/QRD_General_cal.acdb \
